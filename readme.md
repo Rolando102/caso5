@@ -33,7 +33,8 @@ caso5/
 
 ## Captura del Proyecto
 
-![Captura del Portal Educativo](assets/screenshot.png)
+![Caputara](imagen.png)
+
 
 ## Cómo Usar
 
@@ -41,11 +42,3 @@ caso5/
 2. Navega por las diferentes secciones usando el menú superior
 3. Explora los cursos disponibles
 4. Haz clic en "Comenzar ahora" para iniciar tu aprendizaje
-
-## Autor
-
-Proyecto educativo para plataforma de aprendizaje web
-
----
-
-**Nota**: Para agregar la imagen, coloca tu captura de pantalla en la carpeta `assets/` con el nombre `screenshot.png`
